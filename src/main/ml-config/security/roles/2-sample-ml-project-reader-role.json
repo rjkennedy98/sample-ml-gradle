@@ -1,0 +1,5 @@
+{
+  "role-name" : "sample-ml-project-reader",
+  "description" : "Can view documents, but not edit",
+  "role" : [ "rest-reader", "sample-ml-project-nobody" ]
+}

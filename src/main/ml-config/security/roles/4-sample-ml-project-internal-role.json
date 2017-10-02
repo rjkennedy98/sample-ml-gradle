@@ -1,0 +1,5 @@
+{
+  "role-name" : "sample-ml-project-internal",
+  "description" : "Internal role used for amping",
+  "role" : [ "sample-ml-project-writer" ]
+}
